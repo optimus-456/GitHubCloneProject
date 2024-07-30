@@ -1,2 +1,1 @@
-This is the description of my repo
-Adding a new line
+Hello, this is a message from my cloned repository!
